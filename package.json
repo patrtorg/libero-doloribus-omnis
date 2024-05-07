@@ -1,13 +1,13 @@
 {
   "name": "@patrtorg/libero-doloribus-omnis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "PatrDen",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.0.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.1.4",
     "@juigorg/sit-nam-neque": "^1.0.4",
     "@kollorg/dicta-itaque-nemo": "^1.0.4",
     "@patrtorg/autem-et-hic": "^1.0.0",
